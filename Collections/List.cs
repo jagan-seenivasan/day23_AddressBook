@@ -16,7 +16,7 @@ namespace Collections
             primeNumbers.Insert(2, 11);
             primeNumbers.Remove(3);
             primeNumbers.Contains(5);
-            Console.WriteLine("list contains element  ", primeNumbers);
+            Console.WriteLine("list contains element ", primeNumbers);
             foreach(int element in primeNumbers)
             {
                 Console.WriteLine("The prime numbers are "+ element);
