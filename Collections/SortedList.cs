@@ -36,7 +36,7 @@ namespace Collections
             numberName.Add(2, "Two");
             numberName.Add(4, "Four");
 
-            Console.WriteLine("---After adding new key-values--");
+            Console.WriteLine("---After adding new key-values---");
 
             foreach (var kvp in numberName)
                 Console.WriteLine("key: {0}, value: {1}", kvp.Key, kvp.Value);
