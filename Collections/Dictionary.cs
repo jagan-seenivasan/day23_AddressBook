@@ -10,7 +10,7 @@ namespace Collections
         public static void DictionaryDemo()
         {
             string result;
-            //Creating a dictionary using collection-initializer syntax
+            //Creating a dictionary using collection-initializer syntaxx
             var cities = new Dictionary<string, string>(){
                                           {"UK", "London, Manchester"},
                                           {"USA", " New York, San Franciso"},
