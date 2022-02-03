@@ -84,7 +84,7 @@ namespace Collections
             Console.WriteLine("State : " + person.state);
             Console.WriteLine("ZipCode : " + person.zipCode);
             Console.WriteLine("Email Id: " + person.emailId);
-            Console.WriteLine("-------------------------------------------");
+            Console.WriteLine("--------------------------------------------");
         }
         //Modify the details
         public void Modify()
