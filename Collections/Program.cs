@@ -28,7 +28,7 @@ namespace Collections
                 {
                     Console.WriteLine("Enter the details of contact to be added: ");
 
-                    Console.Write("Enter First Name: ");
+                    Console.Write("Enter First Name:");
                     string FirstName = Console.ReadLine();
 
                     Console.Write("Enter Last Name: ");
