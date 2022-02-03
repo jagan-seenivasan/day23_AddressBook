@@ -1,15 +1,14 @@
-﻿using System;
+using System;
 
-namespace AddressBooks
+namespace Collections
 {
     class Program
     {
         static void Main(string[] args)
         {
-
-            AddressBooks.AddrBook.GetCustomer();
-            AddressBooks.AddrBook.ListingPeople();
-
+            List.ListDemo();
+            List.UsingArray();
+            Console.ReadLine();
         }
     }
 }
